@@ -46,8 +46,6 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # Binary Files
-Binaries/*
-Plugins/*/Binaries/*
 
 # Builds
 Build/*
@@ -72,3 +70,54 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Binaries/Win64/UnrealEditor-ArenaProject2-0065.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-0632.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-0848.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-0898.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-0935.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-0961.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-1102.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-1150.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-1481.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-1611.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-1755.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-1823.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-1906.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-2143.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-2191.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-2616.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-2630.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-2837.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-3050.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-3148.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-3356.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-3357.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-3489.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-3540.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-3835.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-4731.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-4914.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-4921.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-4999.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-5081.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-5567.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-5903.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-6247.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-6367.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-6418.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-6548.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-6585.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-6633.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-6710.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-7053.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-7344.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-8052.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-8132.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-8400.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-8564.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-8598.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-9190.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-9305.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-9540.pdb
+Binaries/Win64/UnrealEditor-ArenaProject2-9942.pdb
+
